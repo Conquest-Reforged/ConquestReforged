@@ -1,5 +1,5 @@
-# Indev
-Issue tracker for in-development mods    
+# Public Releases
+Issue tracker for public mods    
 Make sure to check for duplicate reports before opening a new one.
 
 ## **Conquest Reforged**
