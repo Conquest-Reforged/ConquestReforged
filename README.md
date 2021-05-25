@@ -10,15 +10,6 @@ This template is for bugs within the Conquest Reforged mod itself. If you are ex
 [Compatibility Report](https://github.com/Conquest-Reforged/ConquestReforged/issues/new?assignees=&labels=Conquest+Reforged%2C+Incompatibility&template=-conquest-reforged--compatibility-report.md&title=)    
 This template is for compatibility issues between Conquest Reforged and other mods. If you are experiencing bugs within the Conquest Reforged mod itself please use our "Bug Report" template.
 
-[Creative Mechanic/Enhancement Suggestion](https://github.com/Conquest-Reforged/ConquestReforged/issues/new?assignees=&labels=Conquest+Reforged%2C+Creative&template=-conquest-reforged--creative-mechanic-enhancement-suggestion.md&title=)    
-This template is for creative mode mechanic/enhancement suggestions for Conquest Reforged.
-
-[Survival Mechanic/Enhancement Suggestion](https://github.com/Conquest-Reforged/ConquestReforged/issues/new?assignees=&labels=Conquest+Reforged%2C+Survival&template=-conquest-reforged--survival-mechanic-enhancement-suggestion.md&title=)    
-This template is for survival mode mechanic/enhancement suggestions for Conquest Reforged.
-
-[Texture/Asset Request](https://github.com/Conquest-Reforged/ConquestReforged/issues/new?assignees=&labels=Conquest+Reforged%2C+Texture%2FAsset&template=-conquest-reforged--texture-asset-request.md&title=)    
-This template is for texture/asset requests for Conquest Reforged.
-
 ## **Converter**
 
 [Bug Report](https://github.com/Conquest-Reforged/ConquestReforged/issues/new?assignees=&labels=Bug%2C+Converter&template=-converter--bug-report.md&title=)    
