@@ -9,8 +9,3 @@ This template is for bugs within the Conquest Reforged mod itself. If you are ex
 
 [Compatibility Report](https://github.com/Conquest-Reforged/ConquestReforged/issues/new?assignees=&labels=Conquest+Reforged%2C+Incompatibility&template=-conquest-reforged--compatibility-report.md&title=)    
 This template is for compatibility issues between Conquest Reforged and other mods. If you are experiencing bugs within the Conquest Reforged mod itself please use our "Bug Report" template.
-
-## **Converter**
-
-[Bug Report](https://github.com/Conquest-Reforged/ConquestReforged/issues/new?assignees=&labels=Bug%2C+Converter&template=-converter--bug-report.md&title=)    
-This template is for bugs with the Conquest Reforged Converter.
